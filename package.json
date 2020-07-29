@@ -1,0 +1,21 @@
+{
+  "name": "my_node_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "eslint": "^7.3.1",
+    "hbs": "^4.1.1",
+    "image-output": "^2.4.2",
+    "nodemon": "^2.0.4",
+    "postman-request": "^2.88.1-postman.23",
+    "validator": "^13.1.1",
+    "yargs": "^15.3.1"
+  }
+}
