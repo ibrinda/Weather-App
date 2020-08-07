@@ -7,7 +7,7 @@ const forecast = require('./utils/forecast');
 
 //apply this for nodemon to refresh!
 const app = express();
-
+//this is to deploy the website online
 const port = process.env.PORT || 3000;
 
 // console.log(__dirname);
